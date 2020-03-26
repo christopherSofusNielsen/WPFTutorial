@@ -24,5 +24,10 @@ namespace WPFIntro
         {
             InitializeComponent();
         }
+
+        private void btnSubmit_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show($"Hello {txtFirstName.Text}");
+        }
     }
 }
