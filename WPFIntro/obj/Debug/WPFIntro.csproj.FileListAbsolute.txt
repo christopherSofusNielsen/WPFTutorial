@@ -1,0 +1,15 @@
+C:\Programming\Csharp\WPFTutorial\WPFIntro\bin\Debug\WPFIntro.exe.config
+C:\Programming\Csharp\WPFTutorial\WPFIntro\bin\Debug\WPFIntro.exe
+C:\Programming\Csharp\WPFTutorial\WPFIntro\bin\Debug\WPFIntro.pdb
+C:\Programming\Csharp\WPFTutorial\WPFIntro\obj\Debug\WPFIntro.csprojAssemblyReference.cache
+C:\Programming\Csharp\WPFTutorial\WPFIntro\obj\Debug\MainWindow.g.cs
+C:\Programming\Csharp\WPFTutorial\WPFIntro\obj\Debug\App.g.cs
+C:\Programming\Csharp\WPFTutorial\WPFIntro\obj\Debug\WPFIntro_MarkupCompile.cache
+C:\Programming\Csharp\WPFTutorial\WPFIntro\obj\Debug\WPFIntro_MarkupCompile.lref
+C:\Programming\Csharp\WPFTutorial\WPFIntro\obj\Debug\MainWindow.baml
+C:\Programming\Csharp\WPFTutorial\WPFIntro\obj\Debug\WPFIntro.g.resources
+C:\Programming\Csharp\WPFTutorial\WPFIntro\obj\Debug\WPFIntro.Properties.Resources.resources
+C:\Programming\Csharp\WPFTutorial\WPFIntro\obj\Debug\WPFIntro.csproj.GenerateResource.cache
+C:\Programming\Csharp\WPFTutorial\WPFIntro\obj\Debug\WPFIntro.csproj.CoreCompileInputs.cache
+C:\Programming\Csharp\WPFTutorial\WPFIntro\obj\Debug\WPFIntro.exe
+C:\Programming\Csharp\WPFTutorial\WPFIntro\obj\Debug\WPFIntro.pdb
